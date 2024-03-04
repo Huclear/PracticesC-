@@ -1,0 +1,5 @@
+﻿  SimpleWorkWithStrings.cpp
+C:\Users\Kombucha\Desktop\C++\SimpleWorkWithStrings\SimpleWorkWithStrings\SimpleWorkWithStrings.cpp(40,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kombucha\Desktop\C++\SimpleWorkWithStrings\SimpleWorkWithStrings\SimpleWorkWithStrings.cpp(43,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kombucha\Desktop\C++\SimpleWorkWithStrings\SimpleWorkWithStrings\SimpleWorkWithStrings.cpp(45,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SimpleWorkWithStrings.vcxproj -> C:\Users\Kombucha\Desktop\C++\SimpleWorkWithStrings\x64\Debug\SimpleWorkWithStrings.exe
